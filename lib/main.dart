@@ -37,7 +37,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Flutter App Release"),
+        title: Text("Flutter App Release in Playstor"),
         centerTitle: true,
       ),
       body: Column(
